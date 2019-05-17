@@ -16,6 +16,3 @@ function nbMonths(startPriceOld, startPriceNew, savingperMonth, percentLossByMon
     }
     return [months, Math.round(totalSave + priceOld - priceNew)]
 }
-
-let j = nbMonths(2000, 8000, 1000, 1.5);
-console.log(j);
