@@ -3,3 +3,4 @@
 ./package-lock.json
 ./webpack.config.js
 ./.gitignore
+./src/index.js
