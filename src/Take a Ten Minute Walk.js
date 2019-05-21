@@ -10,3 +10,4 @@ function isValidWalk(walk) {
         && count(walk, 's') === count(walk, 'n')
         && count(walk, 'w') === count(walk, 'e')
 }
+
